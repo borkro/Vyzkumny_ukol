@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Other
+examples
+.vscode
+code/adjointIterationRenderResults
+code/calc_data_lbm
+code/main
+code/plot_line_calc
+code/calculateErrorField
+code/test
+code/test.cpp
+code/costFunction.txt
+code/normGD.txt
+code/linePlot.txt
+code/initGuess.txt
+code/adjointData/
+code/data/
+code/guessResults/*
+code/!guessResults/plotGuessResults.py
+code/adjointTempDataAll/
+code/noiseData/
+code/errorData/
+code/adjDataVis/
+code/.gitignore
+Vyzkumny_ukol.code-workspace
